@@ -1,3 +1,4 @@
 # QRCodeKit
 
-A description of this package.
+* Generate a QR Code.
+* Scan the QR Code.
