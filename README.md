@@ -5,8 +5,6 @@
 
 ![IMG_1158.PNG](https://i.loli.net/2020/09/23/ngtq1AxUNSZpmM8.png)
 
-![IMG_1158.PNG](https://i.loli.net/2020/09/23/ngtq1AxUNSZpmM8.png)
-
 # Installation
 
 ## Swift Package Manager
