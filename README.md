@@ -13,7 +13,16 @@ File > Swift Packages > Add Package Dependency
 
 # How to use
 
+* import
+
+```swift
 import QRCodeKit
+```
+* info.plist
+
+```swift
+Privacy - Camera Usage Description
+```
 
 ## QRCGenerator
 
